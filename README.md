@@ -53,6 +53,8 @@ python QTmainV2.py
 ![](./Doc/main.png)
 
 ### 圖片換臉界面
+* **目前圖片支援格式 &rArr; .jpg**
+
 ![](./Doc/faceswapimg.png)
 
 ### 人臉置換
