@@ -29,7 +29,7 @@ https://github.com/YadiraF/PRNet/tree/master/Data
 ## 安裝環境
 * **python==3.6.12**
 
-* **pencv-python==4.1.0.25**
+* **opencv-python==4.1.0.25**
 
 * **PyQt5==5.15.4**
 
